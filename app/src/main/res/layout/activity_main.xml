@@ -13,7 +13,7 @@
         android:layout_height="95dp"
         android:layout_weight="0"
         android:gravity="center_horizontal"
-        android:text="All Banks"
+        android:text="@string/all_banks"
         android:textSize="24sp" />
 
     <TextView
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center_horizontal"
-        android:text="DBS"
+        android:text="@string/dbs"
         android:textSize="24sp" />
 
     <TextView
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center_horizontal"
-        android:text="OCBC"
+        android:text="@string/ocbc"
         android:textSize="24sp" />
 
     <TextView
@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center_horizontal"
-        android:text="UOB"
+        android:text="@string/uob"
         android:textSize="24sp" />
 
 </LinearLayout>
